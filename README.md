@@ -14,8 +14,8 @@
 
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
 <!-- About Me Title --> 
-<h2 align="center">🙎‍♂️About Me🙎‍♂️</h2>
-<h3 align="center">Hello There 👋! Glad you stopped by!</h3>
+<h2 align="center">About Me</h2>
+<h3 align="center">Glad you stopped by!</h3>
 
 <div align="center">
 
@@ -26,7 +26,7 @@ Welcome to my Github! My name is Jesus Molina. I am currently an Undergraduate C
 </br>
 
  
- 🌱 I’m currently learning **Ai/Machine Learning**
+ I’m currently learning **Ai/Machine Learning**
 
 
  </div>
@@ -57,10 +57,6 @@ Welcome to my Github! My name is Jesus Molina. I am currently an Undergraduate C
 <!------------------------------------------------------------------ Showcase Section -----------------------------------------------------------------------------------> 
 <!-- Showcase Title --> 
 <h2 align="center">🖥️Skills & Contact🖥️</h2>
-
-<!-- GIF --> 
-<img align="right" height="150" src="https://i.imgflip.com/92c91x.gif"  />
-<!-- <img align="right" height="150" src="https://i.imgflip.com/92ctea.gif"  /> -->
 
 <!-- Coding Languages Container --> 
 <div align="left">
