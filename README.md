@@ -15,7 +15,7 @@
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
 <!-- About Me Title --> 
 <h2 align="center">🙎‍♂️About Me🙎‍♂️</h2>
-<h3 align="center">Hello There 👋! I'm Mexican Student</h3>
+<h3 align="center">Hello There 👋! Glad you stopped by!</h3>
 
 <div align="center">
 
