@@ -21,12 +21,12 @@
 
 </br>
 
-I am passionate about coding, open-source, and innovation. Always learning and exploring new technologies. Currently started learning of Machine Learning & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
+Welcome to my Github! My name is Jesus Molina. I am currently an Undergraduate Computer Science student. I am eager and passionate to improve my coding skills as well as learn brand new technologies to improve my skillset. Determined to continue my journey beyond the classroom and turn this passion into a career!
 
 </br>
 
  
- 🌱 I’m currently learning **Ai/Machine Learninh**
+ 🌱 I’m currently learning **Ai/Machine Learning**
 
 
  </div>
