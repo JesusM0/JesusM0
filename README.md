@@ -8,7 +8,7 @@
 
 <!----------------------------------------------------------------- Greeting Title With Animation -----------------------------------------------------------------------> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=a277ff&vCenter=true&width=500&height=70&duration=3000&lines=Welcome+To+My+GitHub!+😄;+I'm+Peruano+Molina!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=a277ff&vCenter=true&width=500&height=70&duration=3000&lines=Welcome+To+My+GitHub!+😄;+I'm+Jesus+Molina!;" />
 </h1>
 
 
@@ -102,37 +102,13 @@ I am passionate about coding, open-source, and innovation. Always learning and e
 <!-- Social Media Container --> 
 <div align="left">
   <!-- Linkedin Logo --> 
-  <a href="www.linkedin.com/in/alexdreyesz" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="www.linkedin.com/in/jesus-molina-9b09921aa" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="45" alt="linkedin logo"  />
   </a>
 <img width="12" />
 
-  <!-- Discord Logo --> 
-  <a href="https://discordapp.com/users/alexdreyesz/" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="45" alt="discord logo"  />
-  </a>
-<img width="12" />
-
-  <!-- instagram Logo --> 
-  <a href="https://www.instagram.com/alexdreyesz" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  height="45" alt="instagram logo"  />
-  </a>
-<img width="12" />
-
-  <!-- Twitter Logo -->
-  <a href="https://www.twitter.com/alexdreyesz" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"  height="45" alt="twitter logo"  />
-  </a>
-<img width="12" />
-
-  <!-- WhatsApp Logo -->
-  <a href="(813) 510-0496" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="45" alt="whatsapp logo"  />
-  </a>
-<img width="12" />
-
   <!-- Gmail Logo -->
-  <a href="alexdreyesz@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="jes.mol1978@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  height="45" alt="gmail logo"  />
   </a>
 <img width="12" />
