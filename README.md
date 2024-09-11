@@ -12,14 +12,14 @@
 
 <!------------------------------------------------------------------ About Me Section -----------------------------------------------------------------------------------> 
 <!-- About Me Title --> 
-<h2 align="center">About Me</h2>
-<h3 align="center">Glad you stopped by!</h3>
+<!--<h2 align="center">About Me</h2>-->
+<h3 align="center">Who am I?!</h3>
 
 <div align="center">
 
 </br>
 
-Welcome to my Github! My name is Jesus Molina. I am currently an Undergraduate Computer Science student. I am eager and passionate to improve my coding skills as well as learn brand new technologies to improve my skillset. Determined to continue my journey beyond the classroom and turn this passion into a career!
+Welcome to my Github! My name is Jesus Molina. I am currently an Undergraduate Computer Science student. I am eager and passionate to improve my coding skills as well as learn brand new technologies to improve my skillset. Determined to continue my journey beyond the classroom and turn this passion into a career! 
 
 </br>
 
@@ -32,7 +32,7 @@ Welcome to my Github! My name is Jesus Molina. I am currently an Undergraduate C
 
 <!------------------------------------------------------------------ Statistics Section ---------------------------------------------------------------------------------> 
 <!-- Statistics Title --> 
-<h2 align="center">⭐Statistics⭐</h2>
+<h2 align="center">📈Character Stats📈</h2>
 
  <!-- Makaing Space With Break Lines --> 
 </br>
