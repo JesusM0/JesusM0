@@ -24,14 +24,10 @@
 I am passionate about coding, open-source, and innovation. Always learning and exploring new technologies. Currently started learning of Machine Learning & AI, with a keen interest in applying these technologies to solve real-world problems. I thrive in collaborative environments and enjoy contributing
 
 </br>
-    
- 🔭 I’m currently working on **A Connect 4 App**
+
  
- 🌱 I’m currently learning **HTML, CSS, JavaScript, and React**
+ 🌱 I’m currently learning **Ai/Machine Learninh**
 
-💬 Ask me about **My Passion For Innovation And My Future Plans**
-
-⚡ Fun fact **Capybaras are the largest rodents in the world, but they’re incredibly social and friendly!**
 
  </div>
 
