@@ -147,7 +147,7 @@ I am passionate about coding, open-source, and innovation. Always learning and e
 
 <!-- Snake Graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alexdreyesz/alexdreyesz/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jesusm0/jesusm0/output/snake.svg" alt="Snake animation" />
 </div>
 
 <!-- Graph Chart --> 
