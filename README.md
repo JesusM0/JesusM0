@@ -19,7 +19,7 @@
 
 </br>
 
-Welcome to my Github! My name is Jesus Molina. I am currently an Undergraduate Computer Science student. I am eager and passionate to improve my coding skills as well as learn brand new technologies to improve my skillset. Determined to continue my journey beyond the classroom and turn this passion into a career! 
+Welcome to my Github! My name is Jesus Molina. I am currently an Undergraduate Computer Science student. I am an eager and passionate nerd improving his coding skills while continuing to learn about the growing technological world! Determined to turn my hobby and passion into a thriving career!
 
 </br>
 
