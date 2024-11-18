@@ -1,6 +1,14 @@
+ <div align="right">
+    <!-- Visitor Counter --> 
+    <img src="https://komarev.com/ghpvc/?username=JesusM0&color=red&style=plastic&label=PROFILE+VIEWS"/>
+  </div>
+<div>
+  <div>
+    <h1>🙌 ¡Bienvenidos! My name is Jesus Molina!</h1>
+  </div>
+ 
+</div>
 
-### 🙌 ¡Bienvenidos! My name is Jesus Molina!
-![](https://komarev.com/ghpvc/?username=JesusM0&color=red)
 
 <p>
   Passionate Computer Science student eager to push forward in my career in software development! Always looking for new technologies to discover and learn! 
