@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=JesusM0&color=red)
 
 <p>
-  Passionate Computer
+  Passionate Computer Science student eager to push forward in my career in software development! Always looking for new technologies to discover and learn! 
 </p>
 
 <h3>My Github Stats</h3>
