@@ -45,20 +45,19 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusm0&show_icons=true&locale=en&layout=compact&theme=dark" 
-       alt="jesusm0" 
-       style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jesusm0&show_icons=true&locale=en&theme=dark" 
-       alt="jesusm0" 
-       style="width: 48%;"/>
+<!-- Statistics Container --> 
+<div align="center">
+<!-- GitHub Graph --> 
+<img src="https://github-readme-stats.vercel.app/api?username=JesusM0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
+
+<!-- Coding Languages Graph --> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdreyesz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Coding%20Languages" height="150" alt="languages graph"  />
+
+<!-- Streak Graph --> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jesusm0&theme=dark" 
+       alt="jesusm0 streak graph" />
 </div>
 
-<p style="margin-top: 20px;">
-  <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=jesusm0&theme=dark" 
-       alt="jesusm0" />
-</p>
 
 
 
