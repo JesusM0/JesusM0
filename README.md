@@ -1,7 +1,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jesusm0&label=Profile%20views&color=red&style=flat" alt="jesusm0" /> </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Doto&size=35&center=true&color=F75305&vCenter=true&width=1000&height=70&lines=+🙌+¡+Bienienvenidos+!+🙌+My+Name+is+Jesus+Molina!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Doto&size=35&center=true&color=F75305&vCenter=true&width=1000&height=70&lines=+🙌+¡Bienienvenidos!+🙌+My+Name+is+Jesus+Molina!;" />
 </h1>
 
 ## 🔎 Who am I?
