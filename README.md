@@ -40,7 +40,7 @@
   </a>
 
   <!-- Gmail Logo -->
-  <a href="jes.mol1978@gmail.com" target="_blank">
+  <a href="mailto:jes.mol1978@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail logo"  />
   </a>
 </p>
