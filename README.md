@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=F75305&vCenter=true&width=1000&height=70&lines=+🙌+¡+Bienienvenidos+!+🙌+My+Name+is+Jesus+Molina!;" />
 </h1>
 
-## Who am I?
+## 🔎Who am I?
 <p align="center">I'm a <b>BS</b> in <b>Computer Science</b> at the <b>University of Central Florida</b>. I began my journey into Computer Science in 2020 when I took a boot camp for Web Development. During this time, I became passionate about learning new technologies and became fixated on <b>Machine Learning</b> and <b>Artificial Intelligence</b>. Initially, a simple interest grew from reading articles about AI into wanting  to create and implement my own AI-based projects. While still new to this path in the Computer Science world, I have a burning drive to learn more and build lots to push forward my career in Software Development and the world of AI and Machine Learning.</p>
 
 ## 🚧 I'm currently working on
