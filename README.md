@@ -3,9 +3,6 @@
 <h1 align="center">🙌¡Bienienvenidos!🙌 My Name is Jesus Molina!</h1>
 <h3 align="center">Passionate Computer Science Student eager to increase my skills and push forward into my dream career.</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusm0&label=Profile%20views&color=0e75b6&style=flat" alt="jesusm0" /> </p>
-
 - 🌱 I’m currently learning **Angular, Machine Learning, and Typescript**
 
 - ⚡ Fun fact **Cows have accents depending on where they’re born and they also have best friends and get depressed when separated.**
