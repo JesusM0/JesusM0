@@ -17,7 +17,7 @@
 
 - Angular w/ Typescript
 - Machine Learning
-- MySQL
+- PostgreSQL
 - MEAN Stack
 
 ## 🤖Languages, Tools, and Techs(EverGrowing)
