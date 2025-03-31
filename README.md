@@ -7,19 +7,6 @@
 ## 🔎 Who am I?
 <p align="center">I'm a <b>BS</b> in <b>Computer Science</b> at the <b>University of Central Florida</b>. I began my journey into Computer Science in 2020 when I took a boot camp for Web Development. During this time, I became passionate about learning new technologies and became fixated on <b>Machine Learning</b> and <b>Artificial Intelligence</b>. Initially, a simple interest grew from reading articles about AI into wanting  to create and implement my own AI-based projects. While still new to this path in the Computer Science world, I have a burning drive to learn more and build lots to push forward my career in Software Development and the world of AI and Machine Learning.</p>
 
-## 🚧 I'm currently working on
-
-- Revamping Old Applications with Newer Tech
-- Power-Point-like Application for presenting Code in an efficient Manner(Temporaily Named: CodeBudd)
-- Senior Projects
-
-## 📓 I'm currently learning
-
-- Angular w/ Typescript
-- Machine Learning
-- PostgreSQL
-- MEAN Stack
-
 ## 🤖Languages, Tools, and Techs(EverGrowing)
 <p align="left">
   <a href="https://skillicons.dev">
