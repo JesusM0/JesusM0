@@ -221,32 +221,6 @@
 </div>
 
 <!-- AI & LLMs Container --> <!---------------------------------------------------------------------------------------------------------------------------------------------->
-<h4>AI & LLMS:</h4>
-<div align="left">
-   <!-- Chatgpt Logo -->
-  <img src="images/badges/ai-llm/chatgpt.svg" height="45" alt="Chatgpt logo"  />
-  <img width="12" />
-
-   <!-- Claude Logo -->
-  <img src="images/badges/ai-llm/claude.svg" height="45" alt="Claude logo"  />
-  <img width="12" />
-
-   <!-- Copilot Logo -->
-  <img src="images/badges/ai-llm/copilot.svg" height="45" alt="Copilot logo"  />
-  <img width="12" />
-
-   <!-- Deepseek Logo -->
-  <img src="images/badges/ai-llm/deepseek.svg" height="45" alt="Deepseek logo"  />
-  <img width="12" />
-
-   <!-- Gemini Logo -->
-  <img src="images/badges/ai-llm/google-gemini.svg" height="45" alt="Gemini logo"  />
-  <img width="12" />
-
-   <!-- Huggingface Logo -->
-  <img src="images/badges/ai-llm/huggingface.svg" height="45" alt="Hugging Face logo"  />
-  <img width="12" />
-</div>
 
 ## Lets Connect!!
 <div align="center">
